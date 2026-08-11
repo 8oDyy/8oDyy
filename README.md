@@ -103,8 +103,10 @@ var hugo = new Developer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=8oDyy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&count_private=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=8oDyy&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&langs_count=8" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=8oDyy&theme=tokyonight" width="100%" alt="Profile details"/>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=8oDyy&theme=tokyonight" alt="GitHub stats"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=8oDyy&theme=tokyonight" alt="Top languages"/>
 
 <br/>
 
